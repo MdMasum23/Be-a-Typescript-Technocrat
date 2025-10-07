@@ -2,8 +2,8 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-    "rootDir": "./module_1/src/",
-    "outDir": "./module_1/dist/",
+    "rootDir": "basic-type-typescript/src",
+    "outDir": "basic-type-typescript/dist",
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
