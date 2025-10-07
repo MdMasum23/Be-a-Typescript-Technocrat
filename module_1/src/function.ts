@@ -16,7 +16,7 @@
   const poorUser = {
     name: "Masum",
     balance: 0,
-    addBalance(balance: number): string {
+    addBalance(balance: number): string {//method
       return `My new balance is : ${this.balance + balance}`;
     },
   };
