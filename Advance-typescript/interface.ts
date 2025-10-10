@@ -4,6 +4,7 @@
   type User1 = {
     name: string;
     age: number;
+    roll: number;
   };
 
   interface User2 {//object er khetre type alias ar type interface use kora jabe
@@ -21,6 +22,7 @@
     name: "Masum",
     age: 100,
     role: "programmar",
+    roll: 12,
   };
 
   type rollNumber = number;//primitive type variable er khetre type alias use kora jabe
