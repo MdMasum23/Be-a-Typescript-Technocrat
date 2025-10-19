@@ -29,5 +29,5 @@ const result1 = getPropertyValue(car, "model");
 
   // obj[key]   26
 
-  //
+  //keyof operators
 }
