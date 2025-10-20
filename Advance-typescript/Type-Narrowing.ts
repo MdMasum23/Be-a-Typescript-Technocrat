@@ -8,3 +8,4 @@ function printValue(value: string | number) {
 
 printValue("hello");
 printValue(123.456);
+//type
