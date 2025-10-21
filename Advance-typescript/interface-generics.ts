@@ -63,5 +63,5 @@
     },
   };
 
-  //
+  //interface generics
 }
