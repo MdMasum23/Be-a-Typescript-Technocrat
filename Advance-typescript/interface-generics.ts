@@ -64,5 +64,5 @@
   };
 
   //interface generics
-  //valo lage na
+ 
 }
